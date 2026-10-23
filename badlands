@@ -29,10 +29,10 @@ This XML file does not appear to have any style information associated with it. 
 <value name="Unique"/>
 </type>
 <type name="AK101">
-<nominal>3</nominal>
+<nominal>15</nominal>
 <lifetime>28800</lifetime>
 <restock>3600</restock>
-<min>1</min>
+<min>10</min>
 <quantmin>30</quantmin>
 <quantmax>80</quantmax>
 <cost>100</cost>
@@ -63,10 +63,10 @@ This XML file does not appear to have any style information associated with it. 
 <category name="weapons"/>
 </type>
 <type name="AK74">
-<nominal>6</nominal>
+<nominal>15</nominal>
 <lifetime>28800</lifetime>
 <restock>0</restock>
-<min>4</min>
+<min>10</min>
 <quantmin>30</quantmin>
 <quantmax>80</quantmax>
 <cost>100</cost>
@@ -126,10 +126,10 @@ This XML file does not appear to have any style information associated with it. 
 <value name="Tier3"/>
 </type>
 <type name="AKM">
-<nominal>4</nominal>
+<nominal>20</nominal>
 <lifetime>7200</lifetime>
 <restock>3600</restock>
-<min>2</min>
+<min>15</min>
 <quantmin>30</quantmin>
 <quantmax>80</quantmax>
 <cost>100</cost>
